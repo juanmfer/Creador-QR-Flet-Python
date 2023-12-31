@@ -1,5 +1,5 @@
-# Creador-QR-Flet-Python
-Creador de codigos QR con Flet y Python
+# Creador QR Flet Python
+Ingresa el texto que quieres convertir a QR, ingresa enter para saltos de linea, y crea tu QR.
 
 
 <picture>
