@@ -3,8 +3,11 @@ Ingresa el texto que quieres convertir a QR, ingresa enter para saltos de linea,
 
 
 Librerias necesarias.
+
 pip install flet
+
 pip install qrcode
+
 pip install pillow
 
 
