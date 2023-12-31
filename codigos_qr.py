@@ -65,7 +65,6 @@ def main(page: ft.Page):
     def guardarImagen(e):
         url = construyeQr(txt.value)
         nombre_archivo = "qr_guardado.png"
-        #guardar_qr_image(url, nombre_archivo)
         decodificarImg = base64.b64decode(url)
         # Crea una imagen PIL desde los datos decodificados
         img = Image.open(BytesIO(decodificarImg))
