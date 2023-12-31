@@ -13,6 +13,6 @@ pip install pillow
 
 <p align="center" width="100%">
 <picture>
-  <img alt="Marcadores Creados" src="https://github.com/juanmfer/Creador-QR-Flet-Python/blob/main/CreadorQR-JMF.png">
+  <img alt="Creador QR" src="https://github.com/juanmfer/Creador-QR-Flet-Python/blob/main/CreadorQR-JMF.png">
 </picture>
 </p>
